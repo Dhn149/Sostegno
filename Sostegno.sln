@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sostegno", "Sostegno\Sostegno.csproj", "{03AD7F6A-28CB-4678-BD47-B461620DBFEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vale", "Vale", "{7AD553A2-7B7D-4C3D-8AEF-6CCB04D6889A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AD7F6A-28CB-4678-BD47-B461620DBFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AD7F6A-28CB-4678-BD47-B461620DBFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AD7F6A-28CB-4678-BD47-B461620DBFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AD7F6A-28CB-4678-BD47-B461620DBFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5A6EF8-8CFF-4538-9623-8D843E24B3FC}
+	EndGlobalSection
+EndGlobal
